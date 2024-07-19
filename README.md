@@ -1,2 +1,2 @@
 # Bella Lechuga custom git
- Repo for custom files for the Bella Lechuga modpack
+ Repo of custom files for the Bella Lechuga modpack
